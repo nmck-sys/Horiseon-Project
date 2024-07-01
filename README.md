@@ -8,7 +8,7 @@ The web page was modified to meet accessibility standards so that Horiseon is op
 
 Screenshot:
 
-![alt text](Screenshot_30-6-2024_223453_nmck-sys.github.io-1.jpeg)
+![Screenshot of deployed application](Screenshot-1.png)
 
 Link to application:
 
