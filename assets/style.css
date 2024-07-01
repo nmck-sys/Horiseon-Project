@@ -76,6 +76,9 @@ p {
 }
 
 .benefits {
+/* 
+The positioning of the benefits box was moved up to make the rest of the page look nicer. 
+*/
     margin-right: 20px;
     padding: 20px;
     clear: both;
